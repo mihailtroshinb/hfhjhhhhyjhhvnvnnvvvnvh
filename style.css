@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background-image:linear-gradient(red, blue , white, orange, grey , brown, black);
+}
+
+.link-header{
+color: white;
+}
+ol{
+    color:red;
+    font-size: 25px;
+}
